@@ -1,0 +1,14 @@
+
+1:DECISION TREE
+  Mean: 4.2061839726432  
+  Standard dev..: 0.9184593664347195
+
+
+2: LINEAR REGRESSION
+   
+   Mean: 4.915287939135666
+   Standard dev..: 1.0543066896173132
+
+3. Random forest regressor   
+      Mean: 3.2041007294325836
+     Standard dev..: 0.8712516416211983
