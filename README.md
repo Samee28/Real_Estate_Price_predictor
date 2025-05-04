@@ -57,7 +57,12 @@ The models are evaluated using:
 | Decision Tree     | 4.206183972 | 0.9184593664  |
 | Random Forest     |  3.20410072|0.87125164162 |
 
----
+
+-
+##Add Frontend Part
+This UI lets you input features like crime rate, number of rooms, tax rate, and more — and instantly predict the price of a home using a trained machine learning model.
+--![Screenshot 2025-05-04 212414](https://github.com/user-attachments/assets/2706f6d4-2683-4fa8-99ce-a7c57910e86e)
+
 
 ## 🧱 Project Structure
 ![_- visual selection (1)](https://github.com/user-attachments/assets/1b5bb4bb-4c89-48da-8bb0-4bb2a80ecd87)
