@@ -61,7 +61,11 @@ The models are evaluated using:
 -
 ##Add Frontend Part
 This UI lets you input features like crime rate, number of rooms, tax rate, and more — and instantly predict the price of a home using a trained machine learning model.
---![Screenshot 2025-05-04 212414](https://github.com/user-attachments/assets/2706f6d4-2683-4fa8-99ce-a7c57910e86e)
+
+![Screenshot 2025-05-05 115627](https://github.com/user-attachments/assets/898f9f68-730b-4f62-8bf5-b6b40fe9a4f4)
+
+![Screenshot 2025-05-05 115646](https://github.com/user-attachments/assets/d9c22b07-4384-40e0-8e07-e742db1032f3)
+![Screenshot 2025-05-05 115708](https://github.com/user-attachments/assets/da5a6141-97b1-4c0e-980a-b6b0ba82d6b4)
 
 
 ## 🧱 Project Structure
