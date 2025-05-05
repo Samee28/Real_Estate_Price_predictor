@@ -71,3 +71,12 @@ This UI lets you input features like crime rate, number of rooms, tax rate, and 
 ## 🧱 Project Structure
 ![_- visual selection (1)](https://github.com/user-attachments/assets/1b5bb4bb-4c89-48da-8bb0-4bb2a80ecd87)
 
+
+**
+# Real Estate Price Predictor live
+
+This is a real estate price prediction app.
+
+**App Link**: [Click here to view the app](https://realestatepricepredictor-ur8zinefqe2z23j5hyxona.streamlit.app/)
+
+
